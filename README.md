@@ -62,5 +62,5 @@ Hola, soy pepito!
 
 ### 👨🏽‍💻 Workspace
 <p>
-    <a href="https://github.com/Bouaskaoun"><img alt="Macbook" src="https://img.shields.io/badge/Apple-MacBook_999999?style=for-the-badge&logo=apple&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Macbook" src="https://img.shields.io/badge/Apple-MacBook-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
 </p>
