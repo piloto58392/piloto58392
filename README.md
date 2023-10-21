@@ -22,7 +22,7 @@ Hola, soy pepito!
 <hr>
 
 ## 🤝 Connect with me
-<p align="center">
+<p align="left">
 	<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </p>
 
